@@ -18,7 +18,7 @@ specs:
     description: null
     actuation: 55
     bottom-out: 65
-    pre-travel: null
+    pre-travel: 2mm
     total-travel: null
     spring: standard
     spring_color: null
@@ -49,7 +49,7 @@ specs:
     weights_section: null
     actuation: '55'
     bottom-out: '65'
-    pre-travel: null
+    pre-travel: 2mm
     total-travel: null
     spring_section: null
     spring: gold-plated
